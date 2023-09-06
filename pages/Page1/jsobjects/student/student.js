@@ -5,7 +5,6 @@ export default {
 	},
 
 	async myFun2 () {
-		debugger
 		return {
 			x: {
 				y: {
