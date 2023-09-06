@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "student",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "name",
+        "value": "'abc'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_student",
+  "deleted": false,
+  "gitSyncId": "6492d00c3619f10007cfd3f1_6492d0653619f10007cfd402"
+}
