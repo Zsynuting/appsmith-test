@@ -1,6 +1,12 @@
 export default {
 	name: 'abc',
+	testObj: {
+		testFn() {
+			return 'abc'
+		}
+	},
 	gotoschool() {
+		this.name.length
 		console.log('going to school')
 	},
 
@@ -13,4 +19,7 @@ export default {
 			}
 		}
 	},
+	changeText() {
+
+	}
 }

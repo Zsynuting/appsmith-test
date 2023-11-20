@@ -4,7 +4,7 @@
     "onSort": "{{student.myFun1();}}",
     "isVisibleDownload": true,
     "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
-    "topRow": 4,
+    "topRow": 18,
     "isSortable": true,
     "type": "TABLE_WIDGET_V2",
     "inlineEditingSaveOption": "ROW_LEVEL",
@@ -62,7 +62,8 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1693909765135,
+    "columnUpdatedAt": 1698657063532,
+    "originalBottomRow": 73,
     "defaultSelectedRowIndices": [0],
     "widgetName": "CustomersTable",
     "defaultPageSize": 0,
@@ -86,7 +87,7 @@
         {"key": "isVisible"}
     ],
     "displayName": "Table",
-    "bottomRow": 65,
+    "bottomRow": 79,
     "columnWidthMap": {
         "task": 245,
         "name": 210,
@@ -429,6 +430,7 @@
     "rightColumn": 49,
     "textSize": "0.875rem",
     "widgetId": "aqpqbznlzl",
+    "enableServerSideFiltering": false,
     "tableData": "",
     "label": "Data",
     "searchKey": "",
@@ -436,6 +438,7 @@
     "renderMode": "CANVAS",
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": true,
+    "originalTopRow": 12,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"
 }
