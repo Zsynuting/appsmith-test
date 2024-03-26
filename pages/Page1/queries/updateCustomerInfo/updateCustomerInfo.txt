@@ -1,1 +1,0 @@
-UPDATE users SET name = '{{NameInput.text}}', email = '{{EmailInput.text}}', country = '{{CountryInput.text}}' WHERE id = {{CustomersTable.selectedRow.id}}
